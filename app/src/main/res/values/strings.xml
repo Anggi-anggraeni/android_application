@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bootcamp EKSAD</string>
+    <string name="text_form_login">FROM LOGIN</string>
+    <string name="text_login">LOGIN</string>
+    <string name="input_password">Input Password</string>
+    <string name="minion">MINION</string>
+    <string name="todo">TODO</string>
+    <string name="input_username">Input Username</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+</resources>
